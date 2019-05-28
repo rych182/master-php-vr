@@ -1,0 +1,3 @@
+Hola soy un archivo de texto.
+Estoy añadiendo mas texto
+Otra lineaSoy un texto que ha sido escrito con la funcion fwriteSoy un texto que ha sido escrito con la funcion fwrite

@@ -1,0 +1,11 @@
+cuentas de mysql
+
+nombre de usuario: administrador
+nombre de host: localhost
+contraseña: squalo182
+
+otorgar todos los privilegios
+seleccionar todo
+continuar
+
+Si al crear
